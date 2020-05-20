@@ -31,3 +31,10 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
+## Screenshots
+  ![1](https://github.com/devsun19151295/covid-web-angular/blob/master/screenshots/Screen%20Shot%202563-05-20%20at%2019.09.25.png)
+  
+  ![2](https://github.com/devsun19151295/covid-web-angular/blob/master/screenshots/Screen%20Shot%202563-05-20%20at%2019.09.49.png)
+  
+  ![3](https://github.com/devsun19151295/covid-web-angular/blob/master/screenshots/Screen%20Shot%202563-05-20%20at%2019.09.59.png)
+
